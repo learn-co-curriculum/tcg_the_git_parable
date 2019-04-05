@@ -1,16 +1,10 @@
-# Title
+# The Git Parable
 
 ## Learning Goals
 
--SWBAT 1
--SWBAT 2
+Internalize the reasoning behind the git tool, not just a few commands
+Explain the reasoning behind the design decisions in Version Control Systems
 
 ## Introduction
 
-## SWBAT 1
-
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+Read the [Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html).
